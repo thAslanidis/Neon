@@ -1,2 +1,0 @@
-# gitRep
-My first repository
