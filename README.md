@@ -1,2 +1,2 @@
-# Neon
+# gitRep
 My first repository
